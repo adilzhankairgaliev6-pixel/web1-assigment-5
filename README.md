@@ -3,10 +3,7 @@
 ## Student Information
 - Name: Adilzhan Kairgaliyev
 - Group: SE-2540
-## Links
-- GitHub repository: PASTE YOUR REPOSITORY LINK HERE
-- GitHub Pages: PASTE YOUR github.io LINK HERE
----
+
  
 ## Project Overview
 In this lab assignment, I added a JavaScript profile page to my StrideHouse web application. I practiced working with JavaScript objects and data types, arithmetic operators, form input, event listeners and DOM manipulation (creating and removing list items). The page is `profile.html` and the code is in `profile.js`.
